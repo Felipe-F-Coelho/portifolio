@@ -1,2 +1,3 @@
-# portifolio
-Meu portifólio desenvolvido em um projeto da Alura
+# Meu Portifólio
+
+Projeto desenvolvido no curso de HTML e CSS do Alura
